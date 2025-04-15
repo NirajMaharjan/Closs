@@ -29,7 +29,7 @@ const Add = () => {
 
           <div className="text-xs">
             Only <span className="text-orange-500">4 items</span> left! <br />
-            Don't miss it
+            Dont miss it
           </div>
         </div>
 
